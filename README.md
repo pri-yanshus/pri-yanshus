@@ -1,24 +1,71 @@
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="image">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pri-yanshu&label=Profile%20views&color=0e75b6&style=flat" alt="pri-yanshu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pri-yanshu" alt="pri-yanshu" /></a> </p>
-
-- 🔭 I’m currently working on **Indew Technology Indore**
-
-- 📫 How to reach me **sharmapriyanshu504@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# **Hi 👋, I'm Priyanshu**  
+### **A Passionate Frontend Developer from India**  
+<p align="center">
+  <img width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pri-yanshu&show_icons=true&locale=en&layout=compact" alt="pri-yanshu" /></p>
+### 🚀 **About Me**  
+- 🔭 Currently working at **Indew Technology, Indore**  
+- 💡 Exploring cutting-edge frontend frameworks and tools.  
+- 🌱 Continuously learning **ReactJS**, **TypeScript**, and **Sass** to stay ahead in the game.  
+- 📫 How to reach me: **sharmapriyanshu504@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pri-yanshu&show_icons=true&locale=en" alt="pri-yanshu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pri-yanshu&" alt="pri-yanshu" /></p>
+### 📈 **GitHub Stats**  
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<img alt="Priyanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pri-yanshu&show_icons=true&hide=issues&hide_border=true&theme=radical" />
+</td>
+<td align="center" width="50%">
+<img alt="Priyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-yanshu&langs_count=8&hide_border=true&layout=compact&theme=radical" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pri-yanshu&hide_border=true&theme=radical" />
+</p>
+
+---
+
+### ⚡ **Languages and Tools**
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+</div>
+
+---
+
+### 🌐 **Connect with Me**
+<p align="center">
+  <a href="mailto:sharmapriyanshu504@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+---
+
+### 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pri-yanshu&row=1&column=6&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies">
+</p>
+
+---
+
+### 🌟 **Fun Fact**
+> "In the world of frontend development, a single misplaced semicolon can turn your day into a debugging adventure. That’s why I’ve mastered the art of pixel-perfect designs and clean, maintainable code!" 😄
+
+---
+
+### 🔗 **Show Some Love**  
+If you like my work, give this repository a ⭐ and let’s connect to share knowledge! 🚀
