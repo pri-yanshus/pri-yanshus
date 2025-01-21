@@ -1,8 +1,6 @@
 # **Hi 👋, I'm Priyanshu**  
 ### **A Passionate Frontend Developer from India**  
-<p align="center">
-  <img width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="banner">
-</p>
+
 
 ---
 
