@@ -7,27 +7,8 @@
 ### 🚀 **About Me**  
 - 🔭 Currently working at **Indew Technology, Indore**  
 - 💡 Exploring cutting-edge frontend frameworks and tools.  
-- 🌱 Continuously learning **ReactJS**, **TypeScript**, and **Sass** to stay ahead in the game.  
+- 🌱 Continuously learning **ReactJS**, **TypeScript**, and **JavaScript** to stay ahead in the game.  
 - 📫 How to reach me: **sharmapriyanshu504@gmail.com**
-
----
-
-### 📈 **GitHub Stats**  
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img alt="Priyanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pri-yanshu&show_icons=true&hide=issues&hide_border=true&theme=radical" />
-</td>
-<td align="center" width="50%">
-<img alt="Priyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-yanshu&langs_count=8&hide_border=true&layout=compact&theme=radical" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pri-yanshu&hide_border=true&theme=radical" />
-</p>
 
 ---
 
@@ -58,12 +39,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pri-yanshu&row=1&column=6&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies">
 </p>
 
----
 
-### 🌟 **Fun Fact**
-> "In the world of frontend development, a single misplaced semicolon can turn your day into a debugging adventure. That’s why I’ve mastered the art of pixel-perfect designs and clean, maintainable code!" 😄
-
----
-
-### 🔗 **Show Some Love**  
-If you like my work, give this repository a ⭐ and let’s connect to share knowledge! 🚀
